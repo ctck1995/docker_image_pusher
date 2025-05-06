@@ -12,3 +12,4 @@ redis:7.0.12
 seataio/seata-server:1.4.0
 zookeeper:3.7.0
 redis:7.4.3
+apache/activemq-classic:6.1.6
