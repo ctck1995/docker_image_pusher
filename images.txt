@@ -6,3 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 
 nginx:alpine-slim
+minio/minio:RELEASE.2021-08-20T18-32-01Z
+webcenter/activemq:5.14.3
+redis:7.0.12
+seataio/seata-server:1.4.0
+zookeeper:3.7.0
