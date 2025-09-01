@@ -15,3 +15,4 @@ redis:7.4.3
 apache/activemq-classic:6.1.6
 apache/activemq-artemis:2.42.0
 ghcr.io/ctck1995/moontv:latest
+centos:centos7
