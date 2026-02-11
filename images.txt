@@ -21,3 +21,4 @@ ghcr.io/ctck1995/moontv:latest
 centos:centos7
 ctck1995/centos-ngx-ffmpeg-jdk:1.0
 ctck1995/jdk:8u202-alpine3.10
+python:2.7.18-alpine3.11
