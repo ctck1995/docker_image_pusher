@@ -25,3 +25,4 @@ python:2.7.18-alpine3.11
 mysql:8.0.34-oracle
 mysql:8.2
 calciumion/new-api:latest
+ghcr.io/joeferner/redis-commander:latest
