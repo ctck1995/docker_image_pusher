@@ -26,3 +26,4 @@ mysql:8.0.34-oracle
 mysql:8.2
 calciumion/new-api:latest
 ghcr.io/joeferner/redis-commander:latest
+ghcr.io/ctck1995/ipchecker:latest
