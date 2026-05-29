@@ -27,3 +27,4 @@ mysql:8.2
 calciumion/new-api:latest
 ghcr.io/joeferner/redis-commander:latest
 ghcr.io/ctck1995/ipchecker:latest
+qdrant/qdrant:v1.16.3
