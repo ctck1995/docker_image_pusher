@@ -12,9 +12,9 @@ minio/minio:RELEASE.2025-04-22T22-12-26Z
 minio/minio:RELEASE.2025-09-07T16-13-09Z
 webcenter/activemq:5.14.3
 redis:7.0.12
+redis:7.4.3
 seataio/seata-server:1.4.0
 zookeeper:3.7.0
-redis:7.4.3
 apache/activemq-classic:6.1.6
 apache/activemq-artemis:2.42.0
 ghcr.io/ctck1995/moontv:latest
