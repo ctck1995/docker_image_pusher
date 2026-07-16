@@ -29,3 +29,4 @@ calciumion/new-api:latest
 ghcr.io/joeferner/redis-commander:latest
 ghcr.io/ctck1995/ipchecker:latest
 qdrant/qdrant:v1.16.3
+node:16.20.2-alpine
