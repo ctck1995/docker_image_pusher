@@ -35,3 +35,4 @@ node:16.20.2-alpine
 testcontainers/ryuk:latest
 prom/prometheus:v2.53.0
 grafana/grafana:11.1.0
+caddy:builder
