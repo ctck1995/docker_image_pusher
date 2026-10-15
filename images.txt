@@ -7,6 +7,7 @@
 
 nginx:alpine-slim
 nginx:1.28.3-alpine-slim
+nginx:1.31.6-alpine-slim
 #minio/minio:RELEASE.2021-08-20T18-32-01Z
 #minio/minio:RELEASE.2023-12-02T10-51-33Z
 #minio/minio:RELEASE.2025-04-22T22-12-26Z
